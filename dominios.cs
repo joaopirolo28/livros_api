@@ -1,18 +1,14 @@
-class Nome
-{
-    private string nome;
-    private bool validar(string nome)
-    {
-        return true;
-    }
+class Nome{}
 
-    public string getName()
-    {
-        return nome;
-    }
-    public bool setName(string nome)
-    {
-        return true;
-    }
-}
+class email{}
+
+class senha{}
+
+class genero{}
+
+class titulo{}
+
+class autor{}
+
+
 
