@@ -1,14 +1,16 @@
-class Nome{}
+namespace Classes;
 
-class email{}
+public class Nome
+{
+    public string nome;
 
-class senha{}
-
-class genero{}
-
-class titulo{}
-
-class autor{}
-
-
-
+    public bool validar(string nome){
+        return true;
+    }
+    public bool setNome(string nome){
+        return true;
+    }
+    public string getNome(){
+        return nome;
+    }
+}

@@ -1,0 +1,15 @@
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.AssemblyInfoInputs.cache
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.AssemblyInfo.cs
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.csproj.CoreCompileInputs.cache
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.sourcelink.json
+/Users/joao/Documents/livros_api/bin/Debug/net10.0/livros_api
+/Users/joao/Documents/livros_api/bin/Debug/net10.0/livros_api.deps.json
+/Users/joao/Documents/livros_api/bin/Debug/net10.0/livros_api.runtimeconfig.json
+/Users/joao/Documents/livros_api/bin/Debug/net10.0/livros_api.dll
+/Users/joao/Documents/livros_api/bin/Debug/net10.0/livros_api.pdb
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.dll
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/refint/livros_api.dll
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.pdb
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/livros_api.genruntimeconfig.cache
+/Users/joao/Documents/livros_api/obj/Debug/net10.0/ref/livros_api.dll
